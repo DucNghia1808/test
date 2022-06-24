@@ -512,7 +512,7 @@ int main(void)
 		}
 		
 			
-			// BUTTON MENU
+			// BUTTON MENU 1
 			if(BUTTON2 ==0 )
 			{
 				TAM ++;
